@@ -31,12 +31,13 @@ Visual Demo
 
 Here's a visual representation of the sorting process:
 
-Push Swap Visualizer
+![Push Swap Visualizer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRqOXZidndtdXVzYjh5enVtOXJ6M29jeWZ6YWhocWYwZ3d0NXp1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SjmaGLqVE1AngIjF0/giphy.gif)
+
 How to Use
 
     Clone the repository:
 
-git clone https://github.com/yourusername/push_swap.git
+https://github.com/JCValleCruz/Push_Swap42.git
 
 Build the project:
 
