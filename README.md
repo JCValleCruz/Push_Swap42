@@ -68,6 +68,7 @@ ra
 Using the variable approach:
 
 ARG="3 2 5 1 4"
+
 ----------------
 ./push_swap $ARG
 
